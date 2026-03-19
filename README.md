@@ -1,2 +1,2 @@
-#read me
+# read me
 erm may or may not of forgotten to update the defeault read me LOL. BUT umm this is for a ysws im helping out with called HYPOTHESIS. its pretty fye you submit a research paper and get hella cool hardware you should TOTALLY join plz join plz plz plz plz plz I'm BEGGING YOU
