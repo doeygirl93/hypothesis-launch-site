@@ -35,11 +35,11 @@ function App() {
 
             {/* 4 da text */}
             <div className="absolute top-[22%] left-[15%] w-[34%]">
-              <h2 className="font-['Indie_Flower'] text-[4vw] md:text-[2.5vw] text-blue-900 mb-[2%]">
+              <h2 className="font-['Space_Mono'] text-[4.5vw] md:text-[5vw] text-blue-900 mb-[2%]">
                 YOU SHIP
               </h2>
-                <p className="font-['Space_Mono'] text-[2.5vw] md:text-[1.2vw] text-gray-800 leading-tight">
-                  Design and complete a research project, and write a concise 1–2 page paper explaining your hypothesis, method, and results.
+                <p className="font-['Indie_Flower'] text-[2.5vm] md:text-[3.3vw] text-gray-800 leading-tight">
+                  Design and complete a research project, write a concise 1–2 page paper explaining your hypothesis, method, and results.
                 </p>
             </div>
 
@@ -49,7 +49,7 @@ function App() {
 
       {/* 5. fillout fourm button */}
       <div className="fixed bottom-10 right-10 z-50">
-        <button className="bg-red-600 border-2 border-black px-8 py-4 font-black uppercase shadow-[6px_6px_0px_black] hover:-translate-y-1 active:translate-y-0 active:shadow-none transition-all">
+        <button className="bg-red-600 border-2 border-black px-8 py-4 font-black uppercase shadow-[6px_6px_0px_black] hover:-translate-y-1 active:translate-y-0 active:shadow-none transition-all cursor-pointer">
           Initiate RSVP
         </button>
       </div>
