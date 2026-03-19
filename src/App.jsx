@@ -33,13 +33,23 @@ function App() {
               alt="Notebook"
             />
 
-            {/* 4 da text */}
+            {/* 4 da ys text */}
             <div className="absolute top-[22%] left-[15%] w-[34%]">
               <h2 className="font-['Space_Mono'] text-[4.5vw] md:text-[5vw] text-blue-900 mb-[2%]">
                 YOU SHIP
               </h2>
                 <p className="font-['Indie_Flower'] text-[2.5vm] md:text-[3.3vw] text-gray-800 leading-tight">
-                  Design and complete a research project, write a concise 1–2 page paper explaining your hypothesis, method, and results.
+                   DESIGN AnD COMPLeTe A ResearCh PrOject, WriTe A 1–2 Page Paper Explaining Your Experiement .
+                </p>
+            </div>
+
+            {/* 4 ws text */}
+            <div className="absolute top-[56%] left-[62%] w-[34%]">
+              <h2 className=" font-['Space_Mono'] text-[4.5vw] md:text-[5vw] text-blue-900 mb-[2%]">
+                WE SHIP
+              </h2>
+                <p className="font-['Indie_Flower'] text-[2.5vm] md:text-[3.3vw] text-gray-800 leading-tight">
+                  PrizEs LikE NVIDIA Jetson Nano, Raspberry Pi, computing hardware and Online subscriptions ^_^
                 </p>
             </div>
 
